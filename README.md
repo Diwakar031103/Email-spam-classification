@@ -3,7 +3,7 @@
 
 * Data Collection & Preprocessing: Processed large-scale email datasets, tokenized text, and applied TF-IDF & Word Embeddings.
 
-* Machine Learning Models: Implemented Naïve Bayes, Support Vector Machine (SVM), and Deep Learning (LSTMs, CNNs) for spam detection.
+* Machine Learning Models: Implemented Naïve Bayes, Support Vector Machine (SVM), LogisticRegression ,RandomForestClassifier and XGBClassifier for spam detection.
 
 * Performance Optimization: Achieved 98% accuracy & high F1-score, improving email security and filtering effectiveness.
 
