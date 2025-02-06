@@ -5,6 +5,6 @@
 
 * Machine Learning Models: Implemented Naïve Bayes, Support Vector Machine (SVM), LogisticRegression ,RandomForestClassifier and XGBClassifier for spam detection.
 
-* Performance Optimization: Achieved 98% accuracy & high F1-score, improving email security and filtering effectiveness.
+* Performance Optimization: Achieved 95% accuracy & high F1-score, improving email security and filtering effectiveness.
 
 * Industry Relevance: Designed for real-world email systems to enhance cybersecurity and prevent phishing attacks.
